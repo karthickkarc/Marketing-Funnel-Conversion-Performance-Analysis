@@ -1,0 +1,337 @@
+{
+  "generated_at": "2026-05-24T14:58:16.429408",
+  "summary": {
+    "totals": {
+      "visitors": 769470,
+      "leads": 113739,
+      "mqls": 53305,
+      "sqls": 27238,
+      "opportunities": 17677,
+      "customers": 8067
+    },
+    "rates": {
+      "visitors_to_leads": 14.78,
+      "leads_to_mqls": 46.87,
+      "mqls_to_sqls": 51.1,
+      "sqls_to_opportunities": 64.9,
+      "opportunities_to_customers": 45.64,
+      "visitor_to_customer": 1.048
+    }
+  },
+  "dropoff": [
+    {
+      "stage": "Visitors",
+      "count": 769470,
+      "dropped": 0,
+      "drop_rate_pct": 0.0
+    },
+    {
+      "stage": "Leads",
+      "count": 113739,
+      "dropped": 655731,
+      "drop_rate_pct": 85.2
+    },
+    {
+      "stage": "MQLs",
+      "count": 53305,
+      "dropped": 60434,
+      "drop_rate_pct": 53.1
+    },
+    {
+      "stage": "SQLs",
+      "count": 27238,
+      "dropped": 26067,
+      "drop_rate_pct": 48.9
+    },
+    {
+      "stage": "Opportunities",
+      "count": 17677,
+      "dropped": 9561,
+      "drop_rate_pct": 35.1
+    },
+    {
+      "stage": "Customers",
+      "count": 8067,
+      "dropped": 9610,
+      "drop_rate_pct": 54.4
+    }
+  ],
+  "channels": [
+    {
+      "channel": "Referral",
+      "visitors": 55000,
+      "leads": 11844,
+      "mqls": 5922,
+      "sqls": 3553,
+      "opportunities": 2487,
+      "customers": 1493,
+      "revenue": 4479000,
+      "ad_spend": 0,
+      "visitor_to_lead_pct": 21.53,
+      "lead_to_mql_pct": 50.0,
+      "mql_to_sql_pct": 60.0,
+      "sql_to_opp_pct": 70.0,
+      "opp_to_customer_pct": 60.03,
+      "overall_cvr_pct": 2.715,
+      "avg_deal_size": 3000.0,
+      "cac": 0.0,
+      "roas": NaN
+    },
+    {
+      "channel": "Email",
+      "visitors": 84000,
+      "leads": 18065,
+      "mqls": 9032,
+      "sqls": 4515,
+      "opportunities": 3160,
+      "customers": 1581,
+      "revenue": 4743000,
+      "ad_spend": 25200,
+      "visitor_to_lead_pct": 21.51,
+      "lead_to_mql_pct": 50.0,
+      "mql_to_sql_pct": 49.99,
+      "sql_to_opp_pct": 69.99,
+      "opp_to_customer_pct": 50.03,
+      "overall_cvr_pct": 1.882,
+      "avg_deal_size": 3000.0,
+      "cac": 16.0,
+      "roas": 188.21
+    },
+    {
+      "channel": "Paid Search",
+      "visitors": 149620,
+      "leads": 23339,
+      "mqls": 10503,
+      "sqls": 5251,
+      "opportunities": 3676,
+      "customers": 1836,
+      "revenue": 5508000,
+      "ad_spend": 448860,
+      "visitor_to_lead_pct": 15.6,
+      "lead_to_mql_pct": 45.0,
+      "mql_to_sql_pct": 50.0,
+      "sql_to_opp_pct": 70.01,
+      "opp_to_customer_pct": 49.95,
+      "overall_cvr_pct": 1.227,
+      "avg_deal_size": 3000.0,
+      "cac": 244.0,
+      "roas": 12.27
+    },
+    {
+      "channel": "Organic Search",
+      "visitors": 206350,
+      "leads": 36495,
+      "mqls": 18247,
+      "sqls": 9123,
+      "opportunities": 5473,
+      "customers": 2186,
+      "revenue": 6558000,
+      "ad_spend": 0,
+      "visitor_to_lead_pct": 17.69,
+      "lead_to_mql_pct": 50.0,
+      "mql_to_sql_pct": 50.0,
+      "sql_to_opp_pct": 59.99,
+      "opp_to_customer_pct": 39.94,
+      "overall_cvr_pct": 1.059,
+      "avg_deal_size": 3000.0,
+      "cac": 0.0,
+      "roas": NaN
+    },
+    {
+      "channel": "Social Media",
+      "visitors": 119000,
+      "leads": 12986,
+      "mqls": 5195,
+      "sqls": 2596,
+      "opportunities": 1559,
+      "customers": 518,
+      "revenue": 1554000,
+      "ad_spend": 357000,
+      "visitor_to_lead_pct": 10.91,
+      "lead_to_mql_pct": 40.0,
+      "mql_to_sql_pct": 49.97,
+      "sql_to_opp_pct": 60.05,
+      "opp_to_customer_pct": 33.23,
+      "overall_cvr_pct": 0.435,
+      "avg_deal_size": 3000.0,
+      "cac": 689.0,
+      "roas": 4.35
+    },
+    {
+      "channel": "Direct",
+      "visitors": 58000,
+      "leads": 4920,
+      "mqls": 1968,
+      "sqls": 983,
+      "opportunities": 591,
+      "customers": 233,
+      "revenue": 699000,
+      "ad_spend": 0,
+      "visitor_to_lead_pct": 8.48,
+      "lead_to_mql_pct": 40.0,
+      "mql_to_sql_pct": 49.95,
+      "sql_to_opp_pct": 60.12,
+      "opp_to_customer_pct": 39.42,
+      "overall_cvr_pct": 0.402,
+      "avg_deal_size": 3000.0,
+      "cac": 0.0,
+      "roas": NaN
+    },
+    {
+      "channel": "Display Ads",
+      "visitors": 97500,
+      "leads": 6090,
+      "mqls": 2438,
+      "sqls": 1217,
+      "opportunities": 731,
+      "customers": 220,
+      "revenue": 660000,
+      "ad_spend": 292500,
+      "visitor_to_lead_pct": 6.25,
+      "lead_to_mql_pct": 40.03,
+      "mql_to_sql_pct": 49.92,
+      "sql_to_opp_pct": 60.07,
+      "opp_to_customer_pct": 30.1,
+      "overall_cvr_pct": 0.226,
+      "avg_deal_size": 3000.0,
+      "cac": 1330.0,
+      "roas": 2.26
+    }
+  ],
+  "monthly_trend": [
+    {
+      "month_label": "Jan 2024",
+      "visitors": 42370,
+      "leads": 5430,
+      "customers": 388,
+      "cvr_pct": 0.916,
+      "mom_growth": NaN
+    },
+    {
+      "month_label": "Feb 2024",
+      "visitors": 45800,
+      "leads": 5856,
+      "customers": 419,
+      "cvr_pct": 0.915,
+      "mom_growth": 8.0
+    },
+    {
+      "month_label": "Mar 2024",
+      "visitors": 50000,
+      "leads": 6730,
+      "customers": 480,
+      "cvr_pct": 0.96,
+      "mom_growth": 14.6
+    },
+    {
+      "month_label": "Apr 2024",
+      "visitors": 53800,
+      "leads": 7199,
+      "customers": 509,
+      "cvr_pct": 0.946,
+      "mom_growth": 6.0
+    },
+    {
+      "month_label": "May 2024",
+      "visitors": 58000,
+      "leads": 7856,
+      "customers": 553,
+      "cvr_pct": 0.953,
+      "mom_growth": 8.6
+    },
+    {
+      "month_label": "Jun 2024",
+      "visitors": 63400,
+      "leads": 8998,
+      "customers": 634,
+      "cvr_pct": 1.0,
+      "mom_growth": 14.6
+    },
+    {
+      "month_label": "Jul 2024",
+      "visitors": 60500,
+      "leads": 8200,
+      "customers": 579,
+      "cvr_pct": 0.957,
+      "mom_growth": -8.7
+    },
+    {
+      "month_label": "Aug 2024",
+      "visitors": 66700,
+      "leads": 9461,
+      "customers": 666,
+      "cvr_pct": 0.999,
+      "mom_growth": 15.0
+    },
+    {
+      "month_label": "Sep 2024",
+      "visitors": 71100,
+      "leads": 10261,
+      "customers": 722,
+      "cvr_pct": 1.015,
+      "mom_growth": 8.4
+    },
+    {
+      "month_label": "Oct 2024",
+      "visitors": 77000,
+      "leads": 11912,
+      "customers": 843,
+      "cvr_pct": 1.095,
+      "mom_growth": 16.8
+    },
+    {
+      "month_label": "Nov 2024",
+      "visitors": 93000,
+      "leads": 16768,
+      "customers": 1198,
+      "cvr_pct": 1.288,
+      "mom_growth": 42.1
+    },
+    {
+      "month_label": "Dec 2024",
+      "visitors": 87800,
+      "leads": 15068,
+      "customers": 1076,
+      "cvr_pct": 1.226,
+      "mom_growth": -10.2
+    }
+  ],
+  "recommendations": [
+    {
+      "priority": "Critical",
+      "area": "Fix Leads Drop-Off (85.2% loss)",
+      "insight": "655,731 prospects lost at Leads stage.",
+      "action": "A/B test landing pages, improve nurture sequences, and review qualification criteria."
+    },
+    {
+      "priority": "High",
+      "area": "Scale Referral (CVR 2.715%)",
+      "insight": "Referral converts 2.715% vs 0.226% for Display Ads.",
+      "action": "Reallocate 20-30% of Display Ads budget to Referral."
+    },
+    {
+      "priority": "High",
+      "area": "Maximize Email ROAS (188.21x)",
+      "insight": "Email returns $188.2 per $1 spent.",
+      "action": "Increase spend incrementally, watch for diminishing returns, and test new ad creatives."
+    },
+    {
+      "priority": "Medium",
+      "area": "Improve MQL-to-SQL Qualification",
+      "insight": "Misaligned ICP criteria inflate MQL counts while SQLs remain low.",
+      "action": "Refine lead scoring model: add intent signals, firmographic fit, and engagement depth."
+    },
+    {
+      "priority": "Medium",
+      "area": "Reduce Opportunity-to-Close Leakage",
+      "insight": "Average opp-to-customer rate indicates deal slippage in late stages.",
+      "action": "Introduce deal-desk reviews, ROI calculators, and executive sponsor outreach for stalled deals."
+    },
+    {
+      "priority": "Low",
+      "area": "Activate Re-engagement Campaigns",
+      "insight": "Leads that went cold represent low-CAC recovery opportunities.",
+      "action": "Run 3-touch win-back email sequence targeting leads >90 days inactive."
+    }
+  ]
+}
